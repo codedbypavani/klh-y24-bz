@@ -53,7 +53,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-            Pavani App Name
+            Pavani App
           </Title>
 
           <Text
